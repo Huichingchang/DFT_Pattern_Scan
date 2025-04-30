@@ -12,7 +12,8 @@ This project demonstrates a 4-bit scan chain with automatic pattern generation a
 
 ## 📊 Simulation Waveform
 
-![Waveform - top_pattern_scan](wave_tb_top_pattern_scan.png)
+![Waveform - Top Pattern Scan](wave_tb_top_pattern_scan.png)
+
 
 ---
 
